@@ -25,7 +25,6 @@ github: burden/jekyll-business-sense
 # Build settings
 plugins:
   - jekyll-assets
-  - jekyll-include-cache
   - kramdown
   - uglifier
 
